@@ -7,7 +7,7 @@
   scheduleEnabled: true
   sequence:
     commands:
-    - exec: whoamiiii
+    - exec: whoamiiiish
     keepgoing: false
     strategy: node-first
   uuid: fd7f345a-8b23-45ef-9e17-3efc08e52c1e
